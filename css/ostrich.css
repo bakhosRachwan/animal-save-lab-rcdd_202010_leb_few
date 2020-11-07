@@ -9,8 +9,10 @@ html {
 }
 
 /* Write your solution here */
+
 @media only screen (max-width: 800px){
   #ostrich{
   top: 100px;
   }
+  
 }
